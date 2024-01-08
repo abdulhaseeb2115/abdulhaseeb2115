@@ -1,16 +1,29 @@
-### Hi there 👋
+# Greetings! I'm Abdul Haseeb 👋
 
-<!--
-**abdulhaseeb2115/abdulhaseeb2115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I bring over 2 years of experience as a Full Stack Developer, specializing in JavaScript and the MERN stack. My expertise spans the development of both web and mobile applications, and I'm always on the lookout for new technologies to refine my skills.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently immersed in various projects utilizing the MERN stack, Next.js, Node.js, and Express.js.
+- 🌱 Actively advancing my skills by learning Data Science.
+- 👯 Eager to collaborate on intriguing open-source projects.
+- 🤔 Seeking guidance to enhance my proficiency in Docker.
+- 💬 Feel free to reach out for any tech-related discussions.
+- 😄 Pronouns: He/Him.
+
+## Technical Proficiency
+
+- JavaScript
+- TypeScript
+- Node.js
+- Express.js
+- React.js
+- Next.js
+- React Native
+- EXPO
+- MongoDB
+- SQL
+- PostgreSQL
+- Firebase
+
+Let's connect and embark on the journey of building something extraordinary together!

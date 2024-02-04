@@ -1,6 +1,6 @@
 # Greetings! I'm Abdul Haseeb 👋
 
-I bring over 2 years of experience as a Full Stack Developer, specializing in JavaScript and the MERN stack. My expertise spans the development of both web and mobile applications, and I'm always on the lookout for new technologies to refine my skills.
+I bring over 2+ years of experience as a Full Stack Developer, specializing in JavaScript and the MERN stack. My expertise spans the development of both web and mobile applications, and I'm always on the lookout for new technologies to refine my skills.
 
 ## About Me
 

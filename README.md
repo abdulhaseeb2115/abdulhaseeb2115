@@ -19,6 +19,7 @@ I bring over 3 years of experience as a Full Stack Developer, specializing in Ja
 - Express.js
 - React.js
 - Next.js
+- Nest.js
 - React Native
 - EXPO
 - MongoDB

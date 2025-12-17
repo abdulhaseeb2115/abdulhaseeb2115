@@ -78,7 +78,7 @@ Focused on **AI-powered solutions, LLM integrations, and cloud-native systems** 
 
 ## 🌐 Connect with Me  
 <p align="left">
-  <a href="https://abhaseeb.com">
+  <a href="https://www.abhaseeb.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/abdulhaseeb2115">

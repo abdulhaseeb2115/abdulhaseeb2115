@@ -65,14 +65,7 @@ Focused on **AI-powered solutions, LLM integrations, and cloud-native systems** 
   <img src="https://img.shields.io/badge/n8n-E8560F?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Pinecone-008080?style=for-the-badge" />
   <img src="https://img.shields.io/badge/FAISS-006699?style=for-the-badge" />
-</p>
-
----
-
-## 📊 Languages Used  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhaseeb2115&layout=compact&theme=radical" height="170" />
-</p>  
+</p> 
 
 ---
 

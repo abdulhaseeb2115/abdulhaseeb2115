@@ -69,6 +69,22 @@ Focused on **AI-powered solutions, LLM integrations, and cloud-native systems** 
 
 ---
 
+<!-- Tech Breadth Radar -->
+<h2>🕸️ Tech Breadth</h2>
+
+<pre>
+            AI / LLM
+               ▲
+               │
+   Frontend ◄──┼──► Backend
+               │
+               ▼
+             Cloud
+</pre>
+
+
+
+
 ## 🌐 Connect with Me  
 <p align="left">
   <a href="https://www.abhaseeb.com">

@@ -79,7 +79,13 @@ Focused on **AI-powered solutions, LLM integrations, and cloud-native systems** 
 ## 🌐 Connect with Me  
 <p align="left">
   <a href="https://www.abhaseeb.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=proton&logoColor=white" />
+  </a>
+  <a href="https://www.abhaseeb.com/resume">
+    <img src="https://img.shields.io/badge/Resume-007ced?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  </a>
+  <a href="https://www.abhaseeb.com/consultation">
+    <img src="https://img.shields.io/badge/Consultation-000000?style=for-the-badge&logo=zoom&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/abdulhaseeb2115">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />

@@ -1,6 +1,6 @@
-# 👋 Abdul Haseeb | Full-Stack & AI Engineer
+# 👋 Abdul Haseeb | Senior Full-Stack & AI Engineer
 
-Full-Stack Developer with 3+ years of experience building **scalable apps** using **MERN, Next.js, and Nest.js**.  
+Full-Stack Developer with 4+ years of experience building **scalable apps** using **MERN, Next.js, and Nest.js, Python**.  
 Focused on **AI-powered solutions, LLM integrations, and cloud-native systems** — turning complex problems into seamless experiences.    
 
 ---
@@ -9,7 +9,7 @@ Focused on **AI-powered solutions, LLM integrations, and cloud-native systems** 
 - 🔭 Currently building **AI-powered apps** with LangChain, OpenAI, and multi-agent systems.  
 - 🌱 Expanding skills in **Machine Learning, RAG, and cloud deployments**.  
 - 👯 Open to collaborating on **AI + full-stack projects**.  
-- ⚡ Experienced in **Docker, AWS services, and serverless architectures**.  
+- ⚡ Experienced in **Docker, AWS services, GCP, and serverless architectures**.  
 - 💬 Let’s talk about **JavaScript, TypeScript, AI integrations, and scalable backend systems**.  
 - 😄 Pronouns: He/Him.  
 
